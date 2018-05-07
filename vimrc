@@ -1,4 +1,4 @@
-" pathogen
+"pathogen
 execute pathogen#infect()
 
 " show page number/relative numbering
@@ -31,4 +31,4 @@ let g:ycm_autoclose_preview_window_after_completion = 1
 
 " color scheme
 syntax on
-colorscheme dracula
+colorscheme spacegray
